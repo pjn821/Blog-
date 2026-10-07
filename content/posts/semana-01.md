@@ -1,6 +1,6 @@
 +++
 date = '2026-10-07T22:57:35+01:00'
-draft = true
+draft = false
 title = 'Semana 01'
 +++
 
